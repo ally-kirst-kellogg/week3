@@ -8,6 +8,10 @@
 // Write the recipe (algorithm) in the comments. Then, write the code.
 
 // Store a simple social media profile in memory
+let profile = {
+    name: `Ally`,
+    location: `Chicago`
+}
 
 // Retrieve the name from the profile, store it in memory
 
